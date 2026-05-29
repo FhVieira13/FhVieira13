@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, sou o Flávio! 👋
 
-<!--
-**FhVieira13/FhVieira13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 _Estudante de Análise e Desenvolvimento de Sistemas._
 
-Here are some ideas to get you started:
+💻 _Apaixonada por desenvolvimento web, interfaces modernas e experiências digitais intuitivas._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 _Atualmente focada em React, Next.js, TypeScript e desenvolvimento Full Stack._
+
+🎯 _Meu objetivo é evoluir constantemente como Desenvolvedora de Software, criando aplicações modernas, performáticas e com código limpo._
+
+---
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,github,vscode&theme=dark" />
+</div>
+
+**_Estou aberto a aprender coisas novas, trocar experiências e colaborar em projetos.
+Entre em contato comigo através das redes abaixo._**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/flavio-henrique-984951223" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/fh.vieira/" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:flaviohvieira20@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+
+</div>
